@@ -2,6 +2,7 @@
 
 
 我會在另一個地方不定時的分享一些書中沒有說到，但我們有在使用的其他技術。
+
 如果您閱讀完此書，具備一些基本的了解，可以來這裡看看
 https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
 
