@@ -6,7 +6,7 @@
 如果您閱讀完此書，具備一些基本的了解，可以來這裡看看
 
 https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
-
+<br>
 
 
 ## 章節對照表
@@ -126,11 +126,11 @@ https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
     <td>股票列表(請自行運行程式更新)</td>
 </tr>
 </table>
-
+<br>
 
 ## 重要事記
 尚無
-
+<br>
 
 ## 勘誤表
 <table>
