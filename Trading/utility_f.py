@@ -18,7 +18,7 @@ target_date = 傳入datetime格式日期，為需要判定是否開盤的日期
 '''
 def is_open(target_date:datetime.date):
     #讀取剛剛的休市日期檔案
-    hd = pd.read_excel(r"holiday.xlsx")
+    hd = pd.read_excel(r"D:/Trading/holiday.xlsx")
     #轉換為list備用
     hd_date = pd.to_datetime(hd['日期']).tolist()
     #將日期進行格式化
