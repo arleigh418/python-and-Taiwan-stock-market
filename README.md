@@ -1,11 +1,13 @@
 # Python 金融市場賺大錢聖經：寫出你的專屬指標
 博客來: https://www.books.com.tw/products/0010901963?loc=M_0039_001
+
 momo: https://m.momoshop.com.tw/goods.momo?i_code=9261467
+
 天瓏: https://www.tenlong.com.tw/products/9789860776294
 
 我會在另一個地方不定時的分享一些書中沒有說到，但我們有在使用的其他技術。
 
-如果您閱讀完此書，具備一些基本的了解，可以來這裡看看
+如果您閱讀完此書，具備一些基本的了解，可以來這裡看看。有任何問題歡迎提出issue或是透過信箱聯繫我。
 
 https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
 <br>
