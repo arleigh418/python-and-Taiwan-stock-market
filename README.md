@@ -5,11 +5,7 @@ momo: https://m.momoshop.com.tw/goods.momo?i_code=9261467
 
 天瓏: https://www.tenlong.com.tw/products/9789860776294
 
-我會在另一個地方不定時的分享一些書中沒有說到，但我們有在使用的其他技術。
 
-如果您閱讀完此書，具備一些基本的了解，可以來這裡看看。有任何問題歡迎提出issue或是透過信箱聯繫我。
-
-https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
 <br>
 
 
@@ -133,7 +129,12 @@ https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
 <br>
 
 ## 重要事記
-尚無
+# 1. 新增進階補充
+我會在另一個地方不定時的分享一些書中沒有說到，但我們有在使用的其他技術。
+
+如果您閱讀完此書，具備一些基本的了解，可以來這裡看看。有任何問題歡迎提出issue或是透過信箱聯繫我。
+
+https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
 <br>
 
 ## 勘誤表
