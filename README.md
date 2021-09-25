@@ -1,5 +1,6 @@
 # Python 金融市場賺大錢聖經：寫出你的專屬指標
 
+
 ## 重要事記
 ### 1. Yahoo股市網站更新 (最後更新2021/09/25)
 Yahoo股市的網站看起來經歷了一場巨大的更新，因此2.4章節(頁數2.49)開始的爬取Yahoo新聞的環節以及3.9章節(3-148)有使用到新聞的部分失效。
@@ -15,6 +16,7 @@ Yahoo股市的網站看起來經歷了一場巨大的更新，因此2.4章節(�
 
 https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
 <br>
+
 
 
 ## 章節對照表
@@ -137,6 +139,7 @@ https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
 <br>
 
 
+
 ## 勘誤表
 <table>
     <tr>
@@ -150,6 +153,8 @@ https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
     </tr>
  
 </table>
+
+
 
 ## 購買
 博客來: https://www.books.com.tw/products/0010901963?loc=M_0039_001
