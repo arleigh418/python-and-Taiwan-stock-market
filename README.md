@@ -151,6 +151,7 @@ https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced
  
 </table>
 
+## 購買
 博客來: https://www.books.com.tw/products/0010901963?loc=M_0039_001
 
 momo: https://m.momoshop.com.tw/goods.momo?i_code=9261467
