@@ -7,6 +7,7 @@
 
 [新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market#2-%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
 <br>
+
 ### 1. Yahoo股市網站更新
 #### 最後更新2021/09/27
 #### 新版的Yahoo新聞爬蟲請參考[yahoo_news_2.py](https://github.com/arleigh418/python-and-Taiwan-stock-market/tree/main/Trading%20Strategy_EX/Chapter2/yahoo_news_2.py)
