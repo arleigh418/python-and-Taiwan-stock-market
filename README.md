@@ -2,15 +2,15 @@
 
 
 ## 重要事記
-### 快速索引
-[Yahoo股市網站更新](hhttps://github.com/arleigh418/python-and-Taiwan-stock-market#1-yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0-%E6%9C%80%E5%BE%8C%E6%9B%B4%E6%96%B020210927)
+## 快速索引
+[Yahoo股市網站更新](https://github.com/arleigh418/python-and-Taiwan-stock-market#1-yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0)
 
-[新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market-Advanced#%E7%9B%B8%E9%97%9C%E6%8A%80%E8%A1%93%E8%A3%9C%E5%85%85%E5%8D%802---%E4%BB%A5web%E5%BD%A2%E5%BC%8F%E5%B1%95%E7%8F%BE%E7%B5%90%E6%9E%9C)
+[新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market#2-%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
 
 <br>
 
 ### 1. Yahoo股市網站更新
-### 最後更新2021/09/27
+#### 最後更新2021/09/27
 #### 新版的Yahoo新聞爬蟲請參考[yahoo_news_2.py](https://github.com/arleigh418/python-and-Taiwan-stock-market/tree/main/Trading%20Strategy_EX/Chapter2/yahoo_news_2.py)
 
 Yahoo股市的網站看起來經歷了一場巨大的更新。
@@ -37,7 +37,7 @@ Yahoo股市的網站看起來經歷了一場巨大的更新。
 <br>
 
 ### 2. 新增進階補充
-### 最後更新2021/09/20
+#### 最後更新2021/09/20
 我會在另一個地方不定時的分享一些書中沒有說到，但我們有在使用的其他技術。
 
 如果您閱讀完此書，具備一些基本的了解，可以來這裡看看。有任何問題歡迎提出issue或是透過信箱聯繫我。
