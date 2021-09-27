@@ -7,11 +7,8 @@
 #### 新版的Yahoo新聞爬蟲請參考[yahoo_news_2.py](https://github.com/arleigh418/python-and-Taiwan-stock-market/tree/main/Trading%20Strategy_EX/Chapter2/yahoo_news_2.py)
 
 Yahoo股市的網站看起來經歷了一場巨大的更新
-
 很可惜我三四年前爬新聞時都沒有什麼更新，所以我認為他算是教學的穩定標的
-
 不過最近有一波巨大的更新，因此2.4章節(頁數2.49)開始的爬取Yahoo新聞的環節以及3.9章節(3-148)有使用到新聞的部分失效，但我還是希望您能夠看過內容，大致了解一下舊版的網站的爬蟲過程
-
 <br>
 
 除網站的tag變更，風格大幅改變之外，我認為在技術上影響最大的在於原本是頁數，現在變成滾動式下拉才會有新聞出來
