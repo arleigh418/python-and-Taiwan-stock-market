@@ -11,9 +11,9 @@
 <br>
 <br>
 
-### 1. 借串宣傳>< - [Python期貨程式交易課程](https://mastertalks.tw/products/python-futures?ref=ArleighChang)
+### 1. 借串宣傳>< - Python全方位期貨課程 - 從基礎、爬蟲、回測、Line提醒到AI應用
 #### 最後更新2021/11/10
-
+#### masterTalk平台線上課程-[Python全方位期貨課程 - 從基礎、爬蟲、回測、Line提醒到AI應用](https://mastertalks.tw/products/python-futures?ref=ArleighChang)
 
 最近有幸受邀在mastertalk上開設線上課程，對於看完本書股票應用的同學，如果對期貨這個領域有興趣，歡迎參考。
 (當然如果您只是一些期貨應用的小問題，您可以提出issue，我們可以來聊聊，或者我可以在另一篇進階補充中特別說明。此課程純推廣。)
