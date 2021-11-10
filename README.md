@@ -3,12 +3,24 @@
 
 ## 重要事記
 #### 快速索引
+[借串宣傳>< - Python期貨程式交易課程](https://mastertalks.tw/products/python-futures?ref=ArleighChang)
+
 [Yahoo股市網站更新](https://github.com/arleigh418/python-and-Taiwan-stock-market#1-yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0)
 
 [新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market#2-%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
 <br>
 <br>
-### 1. Yahoo股市網站更新
+
+### 1. 借串宣傳>< - [Python期貨程式交易課程](https://mastertalks.tw/products/python-futures?ref=ArleighChang)
+#### 最後更新2021/11/10
+
+
+最近有幸受邀在mastertalk上開設線上課程，對於看完本書股票應用的同學，如果對期貨這個領域有興趣，歡迎參考。
+(當然如果您只是一些期貨應用的小問題，您可以提出issue，我們可以來聊聊，或者我可以在另一篇進階補充中特別說明。此課程純推廣。)
+<br>
+
+
+### 2. Yahoo股市網站更新
 #### 最後更新2021/09/27
 #### 新版的Yahoo新聞爬蟲請參考[yahoo_news_2.py](https://github.com/arleigh418/python-and-Taiwan-stock-market/tree/main/Trading%20Strategy_EX/Chapter2/yahoo_news_2.py)
 
@@ -35,7 +47,7 @@ Yahoo股市的網站看起來經歷了一場巨大的更新。
 <br>
 
 
-### 2. 新增進階補充
+### 3. 新增進階補充
 #### 最後更新2021/09/20
 我會在另一個地方不定時的分享一些書中沒有說到，但我們有在使用的其他技術。
 
