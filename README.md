@@ -3,13 +3,13 @@
 
 ## 重要事記
 #### 快速索引
-[backtrader FileNotFoundError](https://github.com/arleigh418/python-and-Taiwan-stock-market#1-yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0)
+[backtrader FileNotFoundError](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#backtrader-filenotfounderror)
 
-[借串宣傳線上課程>< - Python期貨程式交易課程](https://github.com/arleigh418/python-and-Taiwan-stock-market#1-%E5%80%9F%E4%B8%B2%E5%AE%A3%E5%82%B3%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B---python%E5%85%A8%E6%96%B9%E4%BD%8D%E6%9C%9F%E8%B2%A8%E8%AA%B2%E7%A8%8B---%E5%BE%9E%E5%9F%BA%E7%A4%8E%E7%88%AC%E8%9F%B2%E5%9B%9E%E6%B8%ACline%E6%8F%90%E9%86%92%E5%88%B0ai%E6%87%89%E7%94%A8)
+[借串宣傳線上課程>< - Python期貨程式交易課程](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E5%80%9F%E4%B8%B2%E5%AE%A3%E5%82%B3%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B---python%E5%85%A8%E6%96%B9%E4%BD%8D%E6%9C%9F%E8%B2%A8%E8%AA%B2%E7%A8%8B---%E5%BE%9E%E5%9F%BA%E7%A4%8E%E7%88%AC%E8%9F%B2%E5%9B%9E%E6%B8%ACline%E6%8F%90%E9%86%92%E5%88%B0ai%E6%87%89%E7%94%A8)
 
-[Yahoo股市網站更新](https://github.com/arleigh418/python-and-Taiwan-stock-market#1-yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0)
+[Yahoo股市網站更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0)
 
-[新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market#2-%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
+[新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
 <br>
 <br>
 
