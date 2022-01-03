@@ -13,7 +13,7 @@
 <br>
 <br>
 
-### backtrader FileNotFoundError
+## backtrader FileNotFoundError
 #### 最後更新2022/1/3
 
 backtrader的FileNotFoundError看起來是有一段小段時間都未被官方修復，因此如果您看到此Error，請首先嘗試書中4.2章節，4-48頁的backtrader的可能問題之一。
@@ -21,7 +21,7 @@ backtrader的FileNotFoundError看起來是有一段小段時間都未被官方�
 <br>
 
 
-### 借串宣傳線上課程 - Python全方位期貨課程 - 從基礎、爬蟲、回測、Line提醒到AI應用
+## 借串宣傳線上課程 - Python全方位期貨課程 - 從基礎、爬蟲、回測、Line提醒到AI應用
 #### 最後更新2021/11/10
 #### masterTalk平台線上課程 - [Python全方位期貨課程 - 從基礎、爬蟲、回測、Line提醒到AI應用](https://mastertalks.tw/products/python-futures?ref=ArleighChang)
 
@@ -34,7 +34,7 @@ backtrader的FileNotFoundError看起來是有一段小段時間都未被官方�
 <br>
 
 
-### Yahoo股市網站更新
+## Yahoo股市網站更新
 #### 最後更新2021/09/27
 #### 新版的Yahoo新聞爬蟲請參考[yahoo_news_2.py](https://github.com/arleigh418/python-and-Taiwan-stock-market/tree/main/Trading%20Strategy_EX/Chapter2/yahoo_news_2.py)
 
@@ -61,7 +61,7 @@ Yahoo股市的網站看起來經歷了一場巨大的更新。
 <br>
 
 
-### 新增進階補充
+## 新增進階補充
 #### 最後更新2021/09/20
 我會在另一個地方不定時的分享一些書中沒有說到，但我們有在使用的其他技術。
 
