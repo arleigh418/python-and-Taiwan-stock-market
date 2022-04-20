@@ -3,6 +3,8 @@
 
 ## 重要事記
 #### 快速索引
+[2-3小節yahoo_price爬蟲更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#2-3小節yahoo_price爬蟲更新)
+
 [backtrader FileNotFoundError](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#backtrader-filenotfounderror)
 
 [借串宣傳線上課程>< - Python期貨程式交易課程](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E5%80%9F%E4%B8%B2%E5%AE%A3%E5%82%B3%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B---python%E5%85%A8%E6%96%B9%E4%BD%8D%E6%9C%9F%E8%B2%A8%E8%AA%B2%E7%A8%8B---%E5%BE%9E%E5%9F%BA%E7%A4%8E%E7%88%AC%E8%9F%B2%E5%9B%9E%E6%B8%ACline%E6%8F%90%E9%86%92%E5%88%B0ai%E6%87%89%E7%94%A8)
@@ -19,9 +21,9 @@
 經讀者反應，該網頁有小幅度的變更，tag變得不一樣導致爬蟲無法獲取資料。
 不過變更的幅度不大，您可以先嘗試自行抓抓看新tag。
 經測試以下tag目前可正常獲取資料
-'''
+```
 price = soup.find('fin-streamer',{'class':'Fw(b) Fz(36px) Mb(-4px) D(ib)'})
-'''
+```
 <br>
 
 
