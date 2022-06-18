@@ -3,6 +3,8 @@
 
 ## 重要事記
 #### 快速索引
+[google寄信已不支援低安全性模式](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#google寄信已不支援低安全性模式)
+
 [2-3小節yahoo_price爬蟲更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#2-3小節yahoo_price爬蟲更新)
 
 [backtrader FileNotFoundError](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#backtrader-filenotfounderror)
@@ -14,6 +16,21 @@
 [新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
 <br>
 <br>
+
+
+## google寄信已不支援低安全性模式
+#### 最後更新2022/6/18
+
+google在五月底時不支援低安全模式,因此書中介紹的寄信方式需要修改.
+基本上現在要採用google的應用程式密碼功能產生出來的密碼才可做使用
+步驟如下可參考：
+1. 確保您的帳戶通過兩步驟驗證
+2. 通過後，一樣至安全性，您應該可以如下圖看到應用程式密碼，請您利用該功能產出密碼 (要通過兩步驟驗證 才會看到應用程式密碼這個選項)
+3. 將您原先程式中的密碼換成第二步驟google所產生出來的密碼應就可寄信，其他部分無需調整
+
+您也可以參考issue#28 的說明
+<br>
+
 
 ## 2-3小節yahoo_price爬蟲更新
 #### 最後更新2022/4/20
