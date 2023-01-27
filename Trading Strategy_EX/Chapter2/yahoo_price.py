@@ -13,6 +13,6 @@ def stock_price(stock:str):
     #準備使用BeautifulSoup進行解析
     soup = BeautifulSoup(data.text)
     #find尋找元素
-    price = soup.find('span',{'class':'Trsdu(0.3s) Fw(b) Fz(36px) Mb(-4px) D(ib)'})
+    price = soup.find("fin-streamer", {"data-test": "qsp-price"})
     #返回float的價格資訊
     return price.text
