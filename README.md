@@ -34,6 +34,21 @@ google在五月底時不支援低安全模式,因此書中介紹的寄信方式�
 
 
 ## 2-3小節yahoo_price爬蟲更新
+#### 最後更新2025/1/24
+經讀者反應，該網頁有小幅度的變更，tag變得不一樣導致爬蟲無法獲取資料。
+不過變更的幅度不大，您可以先嘗試自行抓抓看新tag。
+經測試以下tag目前可正常獲取資料
+```
+price = soup.find("span", {"data-testid": "qsp-price"})
+```
+
+另外網址使用這個
+```
+data = requests.get(f"https://finance.yahoo.com/quote/{stock}?p={stock}",headers=headers)
+```
+
+<br>
+
 #### 最後更新2023/1/27
 
 經讀者反應，該網頁有小幅度的變更，tag變得不一樣導致爬蟲無法獲取資料。
