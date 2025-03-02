@@ -113,8 +113,19 @@ if __name__ == '__main__':
         # 結束日期
         todate=datetime.datetime(2020, 12, 31),
         reverse=False)
-    
-    # Add the Data Feed to Cerebro
+  
+    # 如果 YahooFinanceData 的 bug 尚未修復，使用以下 code
+    #====================start====================
+    # # 下載台積電 (2330.TW) 的歷史數據 - 使用 yf.download
+    # import yfinance as yf
+    # df = yf.download('2330.TW', start='2014-01-01', end='2020-12-31')
+    # # 轉換日期索引格式，避免 Backtrader 錯誤
+    # df.index = df.index.tz_localize(None)
+    # # # 將下載的資料轉為 Backtrader 可用格式
+    # df = df.droplevel("Ticker", axis=1)
+    # print(df)
+    # data = bt.feeds.PandasData(dataname=df)
+    #====================end====================
     cerebro.adddata(data)
 
     # Set our desired cash start
