@@ -13,6 +13,9 @@ Lowest_low = df['Low'].rolling(6).min()
 O_C_high = df['High'].rolling(6).apply(lambda x : x[0]-x[-1])
 #加入dataframe
 df['OCHIGH'] = O_C_high
+#如果遇到 ValueError: Excel does not support datetimes with timezones. 
+#Please ensure that datetimes are timezone unaware before writing to Excel.
+# df.index = df.index.tz_localize(None)
 #存成Excel來看一下結果
 df.to_excel(r'D:\Trading Strategy_EX\Chapter3\final.xlsx')
 
