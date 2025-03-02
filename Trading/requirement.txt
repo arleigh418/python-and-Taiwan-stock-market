@@ -37,3 +37,5 @@ win32-setctime==1.0.3
 xxhash==2.0.0
 yfinance==0.1.59
 zipp==3.4.1
+backtrader
+pyfolio-reloaded
