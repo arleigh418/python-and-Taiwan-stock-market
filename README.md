@@ -3,6 +3,8 @@
 
 ## 重要事記
 #### 快速索引
+新書開始預購！本書 Python 金融市場賺大錢聖經：寫出你的專屬指標 聚焦在入門者，此本新書我們介紹了更進階的量化及分析技術，手把手建構出績效數據亮眼的股票多空平衡策略，並完整的帶到如何透過券商 API 實現自動交易 [問 ChatGPT 也不會的 Python 量化交易聖經 - 從分析到真實交易一本全會](https://www.tenlong.com.tw/products/9786267569566#)
+
 [google寄信已不支援低安全性模式](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#google寄信已不支援低安全性模式)
 
 [2-3小節yahoo_price爬蟲更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#2-3小節yahoo_price爬蟲更新)
