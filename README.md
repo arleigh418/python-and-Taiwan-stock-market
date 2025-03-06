@@ -3,19 +3,26 @@
 
 ## 重要事記
 #### 快速索引
-新書開始預購！本書 Python 金融市場賺大錢聖經：寫出你的專屬指標 聚焦在入門者，此本新書我們介紹了更進階的量化及分析技術，手把手建構出績效數據亮眼的股票多空平衡策略，並完整的帶到如何透過券商 API 實現自動交易 [問 ChatGPT 也不會的 Python 量化交易聖經 - 從分析到真實交易一本全會](https://www.tenlong.com.tw/products/9786267569566#)
+## 重要事記
 
-[google寄信已不支援低安全性模式](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#google寄信已不支援低安全性模式)
+#### 快速索引
 
-[2-3小節yahoo_price爬蟲更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#2-3小節yahoo_price爬蟲更新)
+- **新書開始預購！**  
+  本書 **Python 金融市場賺大錢聖經：寫出你的專屬指標** 聚焦在入門者，此本新書介紹了更進階的量化及分析技術，手把手建構出績效數據亮眼的股票多空平衡策略，並完整帶到如何透過券商 API 實現自動交易  
+  📖 [問 ChatGPT 也不會的 Python 量化交易聖經 - 從分析到真實交易一本全會](https://www.tenlong.com.tw/products/9786267569566#)
 
-[backtrader FileNotFoundError](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#backtrader-filenotfounderror)
+- [📧 Google寄信已不支援低安全性模式](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#google寄信已不支援低安全性模式)
 
-[借串宣傳線上課程>< - Python期貨程式交易課程](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E5%80%9F%E4%B8%B2%E5%AE%A3%E5%82%B3%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B---python%E5%85%A8%E6%96%B9%E4%BD%8D%E6%9C%9F%E8%B2%A8%E8%AA%B2%E7%A8%8B---%E5%BE%9E%E5%9F%BA%E7%A4%8E%E7%88%AC%E8%9F%B2%E5%9B%9E%E6%B8%ACline%E6%8F%90%E9%86%92%E5%88%B0ai%E6%87%89%E7%94%A8)
+- [📈 2-3 小節 Yahoo_price 爬蟲更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#2-3小節yahoo_price爬蟲更新)
 
-[Yahoo股市網站更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0)
+- [❌ Backtrader FileNotFoundError](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#backtrader-filenotfounderror)
 
-[新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
+- [📢 借串宣傳線上課程 - Python 期貨程式交易課程](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E5%80%9F%E4%B8%B2%E5%AE%A3%E5%82%B3%E7%B7%9A%E4%B8%8A%E8%AA%B2%E7%A8%8B---python%E5%85%A8%E6%96%B9%E4%BD%8D%E6%9C%9F%E8%B2%A8%E8%AA%B2%E7%A8%8B---%E5%BE%9E%E5%9F%BA%E7%A4%8E%E7%88%AC%E8%9F%B2%E5%9B%9E%E6%B8%ACline%E6%8F%90%E9%86%92%E5%88%B0ai%E6%87%89%E7%94%A8)
+
+- [📊 Yahoo 股市網站更新](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#yahoo%E8%82%A1%E5%B8%82%E7%B6%B2%E7%AB%99%E6%9B%B4%E6%96%B0)
+
+- [📚 新增進階補充](https://github.com/arleigh418/python-and-Taiwan-stock-market/blob/main/README.md#%E6%96%B0%E5%A2%9E%E9%80%B2%E9%9A%8E%E8%A3%9C%E5%85%85)
+
 <br>
 <br>
 
